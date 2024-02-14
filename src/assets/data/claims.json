@@ -1,0 +1,1210 @@
+{
+  "claims": [
+    {
+      "partnerIdentifier": "2-2-1GRVLAMD",
+      "partnerName": "1 GRV LLC",
+      "applications": [
+        {
+          "appCode": "driver_mobile_app",
+          "roles": [
+            {
+              "applicationRoleId": 58,
+              "code": "DrvLdBrd",
+              "name": "Driver with Load board",
+              "permissions": [
+                {
+                  "applicationPermissionId": 51,
+                  "code": "load_accessorials_view",
+                  "name": "Loads - View Accessorials",
+                  "description": "Loads - View Accessorials"
+                },
+                {
+                  "applicationPermissionId": 52,
+                  "code": "load_view",
+                  "name": "Loads - View",
+                  "description": "Loads-View"
+                },
+                {
+                  "applicationPermissionId": 53,
+                  "code": "loadboard_view",
+                  "name": "Loadboard - View",
+                  "description": "Loadboard-View"
+                },
+                {
+                  "applicationPermissionId": 54,
+                  "code": "post_available_truck",
+                  "name": "AvailableTruck-Post",
+                  "description": "AvailableTruck-Post"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "appCode": "XPOC",
+          "roles": [
+            {
+              "applicationRoleId": 94,
+              "code": "Admin",
+              "name": "Administrator",
+              "permissions": [
+                {
+                  "applicationPermissionId": 24,
+                  "code": "analytics_view",
+                  "name": "Analytics - View",
+                  "description": "Ability to view analytics"
+                },
+                {
+                  "applicationPermissionId": 25,
+                  "code": "manage_profile",
+                  "name": "Manage Profile",
+                  "description": "Ability to manage profile"
+                },
+                {
+                  "applicationPermissionId": 27,
+                  "code": "manage_user",
+                  "name": "Manage Users",
+                  "description": "Ability to manage users"
+                },
+                {
+                  "applicationPermissionId": 33,
+                  "code": "analytics_create",
+                  "name": "analytics_create",
+                  "description": "Analytics - Create"
+                },
+                {
+                  "applicationPermissionId": 34,
+                  "code": "analytics_selfservice_view",
+                  "name": "Analytics - SelfService View",
+                  "description": "Analytics - SelfService View"
+                },
+                {
+                  "applicationPermissionId": 35,
+                  "code": "connect_access_review",
+                  "name": "User Access Requests",
+                  "description": "User Access Requests"
+                },
+                {
+                  "applicationPermissionId": 36,
+                  "code": "dashboard_view",
+                  "name": "Dashboard - View",
+                  "description": "Dashboard - View"
+                },
+                {
+                  "applicationPermissionId": 39,
+                  "code": "helpdesk_view",
+                  "name": "Helpdesk - View",
+                  "description": "Ability to view helpdesk"
+                },
+                {
+                  "applicationPermissionId": 41,
+                  "code": "manage_roles",
+                  "name": "Manage Roles",
+                  "description": "Ability to manage roles"
+                },
+                {
+                  "applicationPermissionId": 43,
+                  "code": "provide_feedback",
+                  "name": "Provide Feedback",
+                  "description": "Provide Feedback"
+                },
+                {
+                  "applicationPermissionId": 116,
+                  "code": "load_accessorials_view",
+                  "name": "Loads - View Accessorials",
+                  "description": "Loads - View Accessorials"
+                },
+                {
+                  "applicationPermissionId": 117,
+                  "code": "load_view",
+                  "name": "Loads - View",
+                  "description": "Loads - View"
+                },
+                {
+                  "applicationPermissionId": 118,
+                  "code": "asset_action",
+                  "name": "Action Asset",
+                  "description": "Action Asset"
+                },
+                {
+                  "applicationPermissionId": 119,
+                  "code": "dedicated_lanes_view",
+                  "name": "Dedicated Lanes",
+                  "description": "Dedicated Lanes"
+                },
+                {
+                  "applicationPermissionId": 120,
+                  "code": "load_assigned_action",
+                  "name": "Action Assigned Loads",
+                  "description": "Action Assigned Loads"
+                },
+                {
+                  "applicationPermissionId": 121,
+                  "code": "load_assigned_manage",
+                  "name": "Manage Assigned",
+                  "description": "Manage Assigned"
+                },
+                {
+                  "applicationPermissionId": 122,
+                  "code": "load_assigned_view",
+                  "name": "Loads - View Assigned",
+                  "description": "Loads - View Assigned"
+                },
+                {
+                  "applicationPermissionId": 123,
+                  "code": "load_available_manage",
+                  "name": "Loads - Find/Bid",
+                  "description": "Loads - Find/Bid"
+                },
+                {
+                  "applicationPermissionId": 124,
+                  "code": "load_available_view",
+                  "name": "Loads - View Available",
+                  "description": "Loads - View Available"
+                },
+                {
+                  "applicationPermissionId": 125,
+                  "code": "load_bids_manage",
+                  "name": "Manage Bid",
+                  "description": "Manage Bid"
+                },
+                {
+                  "applicationPermissionId": 126,
+                  "code": "load_bids_view",
+                  "name": "Loads - Bid",
+                  "description": "Loads - Bid"
+                },
+                {
+                  "applicationPermissionId": 127,
+                  "code": "load_limited_view",
+                  "name": "Loads - LimitedView",
+                  "description": "Loads - LimitedView"
+                },
+                {
+                  "applicationPermissionId": 128,
+                  "code": "load_tenders",
+                  "name": "Load - Tenders",
+                  "description": "Load - Tenders"
+                },
+                {
+                  "applicationPermissionId": 129,
+                  "code": "load_tracking_manage",
+                  "name": "Manage Tracking",
+                  "description": "Manage Tracking"
+                },
+                {
+                  "applicationPermissionId": 130,
+                  "code": "load_tracking_view",
+                  "name": "Loads - Tracking",
+                  "description": "Loads - Tracking"
+                },
+                {
+                  "applicationPermissionId": 131,
+                  "code": "loyalty_view",
+                  "name": "Loyalty - View",
+                  "description": "Loyalty - View"
+                },
+                {
+                  "applicationPermissionId": 132,
+                  "code": "manage_asset",
+                  "name": "Manage Asset",
+                  "description": "Manage Asset"
+                },
+                {
+                  "applicationPermissionId": 133,
+                  "code": "manage_equipment",
+                  "name": "Manage Equipment",
+                  "description": "Manage Equipment"
+                },
+                {
+                  "applicationPermissionId": 134,
+                  "code": "manage_finance",
+                  "name": "Manage Finance",
+                  "description": "Manage Finance"
+                },
+                {
+                  "applicationPermissionId": 135,
+                  "code": "manage_system_notification",
+                  "name": "Manage System Notification",
+                  "description": "Manage System Notification"
+                },
+                {
+                  "applicationPermissionId": 136,
+                  "code": "view_users",
+                  "name": "View Users",
+                  "description": "View Users"
+                },
+                {
+                  "applicationPermissionId": 184,
+                  "code": "standard_mdm_user",
+                  "name": "Standard MDM User",
+                  "description": "Standard MDM User"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partnerIdentifier": "2-2-101TLAMN",
+      "partnerName": "101 TRANSPORT INC",
+      "applications": [
+        {
+          "appCode": "driver_mobile_app",
+          "roles": [
+            {
+              "applicationRoleId": 58,
+              "code": "DrvLdBrd",
+              "name": "Driver with Load board",
+              "permissions": [
+                {
+                  "applicationPermissionId": 51,
+                  "code": "load_accessorials_view",
+                  "name": "Loads - View Accessorials",
+                  "description": "Loads - View Accessorials"
+                },
+                {
+                  "applicationPermissionId": 52,
+                  "code": "load_view",
+                  "name": "Loads - View",
+                  "description": "Loads-View"
+                },
+                {
+                  "applicationPermissionId": 53,
+                  "code": "loadboard_view",
+                  "name": "Loadboard - View",
+                  "description": "Loadboard-View"
+                },
+                {
+                  "applicationPermissionId": 54,
+                  "code": "post_available_truck",
+                  "name": "AvailableTruck-Post",
+                  "description": "AvailableTruck-Post"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "appCode": "XPOC",
+          "roles": [
+            {
+              "applicationRoleId": 94,
+              "code": "Admin",
+              "name": "Administrator",
+              "permissions": [
+                {
+                  "applicationPermissionId": 24,
+                  "code": "analytics_view",
+                  "name": "Analytics - View",
+                  "description": "Ability to view analytics"
+                },
+                {
+                  "applicationPermissionId": 25,
+                  "code": "manage_profile",
+                  "name": "Manage Profile",
+                  "description": "Ability to manage profile"
+                },
+                {
+                  "applicationPermissionId": 27,
+                  "code": "manage_user",
+                  "name": "Manage Users",
+                  "description": "Ability to manage users"
+                },
+                {
+                  "applicationPermissionId": 33,
+                  "code": "analytics_create",
+                  "name": "analytics_create",
+                  "description": "Analytics - Create"
+                },
+                {
+                  "applicationPermissionId": 34,
+                  "code": "analytics_selfservice_view",
+                  "name": "Analytics - SelfService View",
+                  "description": "Analytics - SelfService View"
+                },
+                {
+                  "applicationPermissionId": 35,
+                  "code": "connect_access_review",
+                  "name": "User Access Requests",
+                  "description": "User Access Requests"
+                },
+                {
+                  "applicationPermissionId": 36,
+                  "code": "dashboard_view",
+                  "name": "Dashboard - View",
+                  "description": "Dashboard - View"
+                },
+                {
+                  "applicationPermissionId": 39,
+                  "code": "helpdesk_view",
+                  "name": "Helpdesk - View",
+                  "description": "Ability to view helpdesk"
+                },
+                {
+                  "applicationPermissionId": 41,
+                  "code": "manage_roles",
+                  "name": "Manage Roles",
+                  "description": "Ability to manage roles"
+                },
+                {
+                  "applicationPermissionId": 43,
+                  "code": "provide_feedback",
+                  "name": "Provide Feedback",
+                  "description": "Provide Feedback"
+                },
+                {
+                  "applicationPermissionId": 116,
+                  "code": "load_accessorials_view",
+                  "name": "Loads - View Accessorials",
+                  "description": "Loads - View Accessorials"
+                },
+                {
+                  "applicationPermissionId": 117,
+                  "code": "load_view",
+                  "name": "Loads - View",
+                  "description": "Loads - View"
+                },
+                {
+                  "applicationPermissionId": 118,
+                  "code": "asset_action",
+                  "name": "Action Asset",
+                  "description": "Action Asset"
+                },
+                {
+                  "applicationPermissionId": 119,
+                  "code": "dedicated_lanes_view",
+                  "name": "Dedicated Lanes",
+                  "description": "Dedicated Lanes"
+                },
+                {
+                  "applicationPermissionId": 120,
+                  "code": "load_assigned_action",
+                  "name": "Action Assigned Loads",
+                  "description": "Action Assigned Loads"
+                },
+                {
+                  "applicationPermissionId": 121,
+                  "code": "load_assigned_manage",
+                  "name": "Manage Assigned",
+                  "description": "Manage Assigned"
+                },
+                {
+                  "applicationPermissionId": 122,
+                  "code": "load_assigned_view",
+                  "name": "Loads - View Assigned",
+                  "description": "Loads - View Assigned"
+                },
+                {
+                  "applicationPermissionId": 123,
+                  "code": "load_available_manage",
+                  "name": "Loads - Find/Bid",
+                  "description": "Loads - Find/Bid"
+                },
+                {
+                  "applicationPermissionId": 124,
+                  "code": "load_available_view",
+                  "name": "Loads - View Available",
+                  "description": "Loads - View Available"
+                },
+                {
+                  "applicationPermissionId": 125,
+                  "code": "load_bids_manage",
+                  "name": "Manage Bid",
+                  "description": "Manage Bid"
+                },
+                {
+                  "applicationPermissionId": 126,
+                  "code": "load_bids_view",
+                  "name": "Loads - Bid",
+                  "description": "Loads - Bid"
+                },
+                {
+                  "applicationPermissionId": 127,
+                  "code": "load_limited_view",
+                  "name": "Loads - LimitedView",
+                  "description": "Loads - LimitedView"
+                },
+                {
+                  "applicationPermissionId": 128,
+                  "code": "load_tenders",
+                  "name": "Load - Tenders",
+                  "description": "Load - Tenders"
+                },
+                {
+                  "applicationPermissionId": 129,
+                  "code": "load_tracking_manage",
+                  "name": "Manage Tracking",
+                  "description": "Manage Tracking"
+                },
+                {
+                  "applicationPermissionId": 130,
+                  "code": "load_tracking_view",
+                  "name": "Loads - Tracking",
+                  "description": "Loads - Tracking"
+                },
+                {
+                  "applicationPermissionId": 131,
+                  "code": "loyalty_view",
+                  "name": "Loyalty - View",
+                  "description": "Loyalty - View"
+                },
+                {
+                  "applicationPermissionId": 132,
+                  "code": "manage_asset",
+                  "name": "Manage Asset",
+                  "description": "Manage Asset"
+                },
+                {
+                  "applicationPermissionId": 133,
+                  "code": "manage_equipment",
+                  "name": "Manage Equipment",
+                  "description": "Manage Equipment"
+                },
+                {
+                  "applicationPermissionId": 134,
+                  "code": "manage_finance",
+                  "name": "Manage Finance",
+                  "description": "Manage Finance"
+                },
+                {
+                  "applicationPermissionId": 135,
+                  "code": "manage_system_notification",
+                  "name": "Manage System Notification",
+                  "description": "Manage System Notification"
+                },
+                {
+                  "applicationPermissionId": 136,
+                  "code": "view_users",
+                  "name": "View Users",
+                  "description": "View Users"
+                },
+                {
+                  "applicationPermissionId": 184,
+                  "code": "standard_mdm_user",
+                  "name": "Standard MDM User",
+                  "description": "Standard MDM User"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partnerIdentifier": "2-2-AFTETAFL",
+      "partnerName": "AFTER FIVE P.M., INC.",
+      "applications": [
+        {
+          "appCode": "driver_mobile_app",
+          "roles": [
+            {
+              "applicationRoleId": 58,
+              "code": "DrvLdBrd",
+              "name": "Driver with Load board",
+              "permissions": [
+                {
+                  "applicationPermissionId": 51,
+                  "code": "load_accessorials_view",
+                  "name": "Loads - View Accessorials",
+                  "description": "Loads - View Accessorials"
+                },
+                {
+                  "applicationPermissionId": 52,
+                  "code": "load_view",
+                  "name": "Loads - View",
+                  "description": "Loads-View"
+                },
+                {
+                  "applicationPermissionId": 53,
+                  "code": "loadboard_view",
+                  "name": "Loadboard - View",
+                  "description": "Loadboard-View"
+                },
+                {
+                  "applicationPermissionId": 54,
+                  "code": "post_available_truck",
+                  "name": "AvailableTruck-Post",
+                  "description": "AvailableTruck-Post"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "appCode": "XPOC",
+          "roles": [
+            {
+              "applicationRoleId": 98,
+              "code": "Dispatcher",
+              "name": "Dispatcher",
+              "permissions": [
+                {
+                  "applicationPermissionId": 24,
+                  "code": "analytics_view",
+                  "name": "Analytics - View",
+                  "description": "Ability to view analytics"
+                },
+                {
+                  "applicationPermissionId": 25,
+                  "code": "manage_profile",
+                  "name": "Manage Profile",
+                  "description": "Ability to manage profile"
+                },
+                {
+                  "applicationPermissionId": 27,
+                  "code": "manage_user",
+                  "name": "Manage Users",
+                  "description": "Ability to manage users"
+                },
+                {
+                  "applicationPermissionId": 34,
+                  "code": "analytics_selfservice_view",
+                  "name": "Analytics - SelfService View",
+                  "description": "Analytics - SelfService View"
+                },
+                {
+                  "applicationPermissionId": 36,
+                  "code": "dashboard_view",
+                  "name": "Dashboard - View",
+                  "description": "Dashboard - View"
+                },
+                {
+                  "applicationPermissionId": 39,
+                  "code": "helpdesk_view",
+                  "name": "Helpdesk - View",
+                  "description": "Ability to view helpdesk"
+                },
+                {
+                  "applicationPermissionId": 43,
+                  "code": "provide_feedback",
+                  "name": "Provide Feedback",
+                  "description": "Provide Feedback"
+                },
+                {
+                  "applicationPermissionId": 116,
+                  "code": "load_accessorials_view",
+                  "name": "Loads - View Accessorials",
+                  "description": "Loads - View Accessorials"
+                },
+                {
+                  "applicationPermissionId": 117,
+                  "code": "load_view",
+                  "name": "Loads - View",
+                  "description": "Loads - View"
+                },
+                {
+                  "applicationPermissionId": 118,
+                  "code": "asset_action",
+                  "name": "Action Asset",
+                  "description": "Action Asset"
+                },
+                {
+                  "applicationPermissionId": 119,
+                  "code": "dedicated_lanes_view",
+                  "name": "Dedicated Lanes",
+                  "description": "Dedicated Lanes"
+                },
+                {
+                  "applicationPermissionId": 120,
+                  "code": "load_assigned_action",
+                  "name": "Action Assigned Loads",
+                  "description": "Action Assigned Loads"
+                },
+                {
+                  "applicationPermissionId": 121,
+                  "code": "load_assigned_manage",
+                  "name": "Manage Assigned",
+                  "description": "Manage Assigned"
+                },
+                {
+                  "applicationPermissionId": 122,
+                  "code": "load_assigned_view",
+                  "name": "Loads - View Assigned",
+                  "description": "Loads - View Assigned"
+                },
+                {
+                  "applicationPermissionId": 123,
+                  "code": "load_available_manage",
+                  "name": "Loads - Find/Bid",
+                  "description": "Loads - Find/Bid"
+                },
+                {
+                  "applicationPermissionId": 124,
+                  "code": "load_available_view",
+                  "name": "Loads - View Available",
+                  "description": "Loads - View Available"
+                },
+                {
+                  "applicationPermissionId": 125,
+                  "code": "load_bids_manage",
+                  "name": "Manage Bid",
+                  "description": "Manage Bid"
+                },
+                {
+                  "applicationPermissionId": 126,
+                  "code": "load_bids_view",
+                  "name": "Loads - Bid",
+                  "description": "Loads - Bid"
+                },
+                {
+                  "applicationPermissionId": 127,
+                  "code": "load_limited_view",
+                  "name": "Loads - LimitedView",
+                  "description": "Loads - LimitedView"
+                },
+                {
+                  "applicationPermissionId": 128,
+                  "code": "load_tenders",
+                  "name": "Load - Tenders",
+                  "description": "Load - Tenders"
+                },
+                {
+                  "applicationPermissionId": 129,
+                  "code": "load_tracking_manage",
+                  "name": "Manage Tracking",
+                  "description": "Manage Tracking"
+                },
+                {
+                  "applicationPermissionId": 130,
+                  "code": "load_tracking_view",
+                  "name": "Loads - Tracking",
+                  "description": "Loads - Tracking"
+                },
+                {
+                  "applicationPermissionId": 131,
+                  "code": "loyalty_view",
+                  "name": "Loyalty - View",
+                  "description": "Loyalty - View"
+                },
+                {
+                  "applicationPermissionId": 132,
+                  "code": "manage_asset",
+                  "name": "Manage Asset",
+                  "description": "Manage Asset"
+                },
+                {
+                  "applicationPermissionId": 133,
+                  "code": "manage_equipment",
+                  "name": "Manage Equipment",
+                  "description": "Manage Equipment"
+                },
+                {
+                  "applicationPermissionId": 134,
+                  "code": "manage_finance",
+                  "name": "Manage Finance",
+                  "description": "Manage Finance"
+                },
+                {
+                  "applicationPermissionId": 136,
+                  "code": "view_users",
+                  "name": "View Users",
+                  "description": "View Users"
+                },
+                {
+                  "applicationPermissionId": 184,
+                  "code": "standard_mdm_user",
+                  "name": "Standard MDM User",
+                  "description": "Standard MDM User"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partnerIdentifier": "2-2-LAMOHAVA",
+      "partnerName": "LAMONTREE TRUCKING, INC - AUTOMATION DO NOT ALTER",
+      "applications": [
+        {
+          "appCode": "driver_mobile_app",
+          "roles": [
+            {
+              "applicationRoleId": 58,
+              "code": "DrvLdBrd",
+              "name": "Driver with Load board",
+              "permissions": [
+                {
+                  "applicationPermissionId": 51,
+                  "code": "load_accessorials_view",
+                  "name": "Loads - View Accessorials",
+                  "description": "Loads - View Accessorials"
+                },
+                {
+                  "applicationPermissionId": 52,
+                  "code": "load_view",
+                  "name": "Loads - View",
+                  "description": "Loads-View"
+                },
+                {
+                  "applicationPermissionId": 53,
+                  "code": "loadboard_view",
+                  "name": "Loadboard - View",
+                  "description": "Loadboard-View"
+                },
+                {
+                  "applicationPermissionId": 54,
+                  "code": "post_available_truck",
+                  "name": "AvailableTruck-Post",
+                  "description": "AvailableTruck-Post"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "appCode": "XPOC",
+          "roles": [
+            {
+              "applicationRoleId": 94,
+              "code": "Admin",
+              "name": "Administrator",
+              "permissions": [
+                {
+                  "applicationPermissionId": 24,
+                  "code": "analytics_view",
+                  "name": "Analytics - View",
+                  "description": "Ability to view analytics"
+                },
+                {
+                  "applicationPermissionId": 25,
+                  "code": "manage_profile",
+                  "name": "Manage Profile",
+                  "description": "Ability to manage profile"
+                },
+                {
+                  "applicationPermissionId": 27,
+                  "code": "manage_user",
+                  "name": "Manage Users",
+                  "description": "Ability to manage users"
+                },
+                {
+                  "applicationPermissionId": 33,
+                  "code": "analytics_create",
+                  "name": "analytics_create",
+                  "description": "Analytics - Create"
+                },
+                {
+                  "applicationPermissionId": 34,
+                  "code": "analytics_selfservice_view",
+                  "name": "Analytics - SelfService View",
+                  "description": "Analytics - SelfService View"
+                },
+                {
+                  "applicationPermissionId": 35,
+                  "code": "connect_access_review",
+                  "name": "User Access Requests",
+                  "description": "User Access Requests"
+                },
+                {
+                  "applicationPermissionId": 36,
+                  "code": "dashboard_view",
+                  "name": "Dashboard - View",
+                  "description": "Dashboard - View"
+                },
+                {
+                  "applicationPermissionId": 39,
+                  "code": "helpdesk_view",
+                  "name": "Helpdesk - View",
+                  "description": "Ability to view helpdesk"
+                },
+                {
+                  "applicationPermissionId": 41,
+                  "code": "manage_roles",
+                  "name": "Manage Roles",
+                  "description": "Ability to manage roles"
+                },
+                {
+                  "applicationPermissionId": 43,
+                  "code": "provide_feedback",
+                  "name": "Provide Feedback",
+                  "description": "Provide Feedback"
+                },
+                {
+                  "applicationPermissionId": 116,
+                  "code": "load_accessorials_view",
+                  "name": "Loads - View Accessorials",
+                  "description": "Loads - View Accessorials"
+                },
+                {
+                  "applicationPermissionId": 117,
+                  "code": "load_view",
+                  "name": "Loads - View",
+                  "description": "Loads - View"
+                },
+                {
+                  "applicationPermissionId": 118,
+                  "code": "asset_action",
+                  "name": "Action Asset",
+                  "description": "Action Asset"
+                },
+                {
+                  "applicationPermissionId": 119,
+                  "code": "dedicated_lanes_view",
+                  "name": "Dedicated Lanes",
+                  "description": "Dedicated Lanes"
+                },
+                {
+                  "applicationPermissionId": 120,
+                  "code": "load_assigned_action",
+                  "name": "Action Assigned Loads",
+                  "description": "Action Assigned Loads"
+                },
+                {
+                  "applicationPermissionId": 121,
+                  "code": "load_assigned_manage",
+                  "name": "Manage Assigned",
+                  "description": "Manage Assigned"
+                },
+                {
+                  "applicationPermissionId": 122,
+                  "code": "load_assigned_view",
+                  "name": "Loads - View Assigned",
+                  "description": "Loads - View Assigned"
+                },
+                {
+                  "applicationPermissionId": 123,
+                  "code": "load_available_manage",
+                  "name": "Loads - Find/Bid",
+                  "description": "Loads - Find/Bid"
+                },
+                {
+                  "applicationPermissionId": 124,
+                  "code": "load_available_view",
+                  "name": "Loads - View Available",
+                  "description": "Loads - View Available"
+                },
+                {
+                  "applicationPermissionId": 125,
+                  "code": "load_bids_manage",
+                  "name": "Manage Bid",
+                  "description": "Manage Bid"
+                },
+                {
+                  "applicationPermissionId": 126,
+                  "code": "load_bids_view",
+                  "name": "Loads - Bid",
+                  "description": "Loads - Bid"
+                },
+                {
+                  "applicationPermissionId": 127,
+                  "code": "load_limited_view",
+                  "name": "Loads - LimitedView",
+                  "description": "Loads - LimitedView"
+                },
+                {
+                  "applicationPermissionId": 128,
+                  "code": "load_tenders",
+                  "name": "Load - Tenders",
+                  "description": "Load - Tenders"
+                },
+                {
+                  "applicationPermissionId": 129,
+                  "code": "load_tracking_manage",
+                  "name": "Manage Tracking",
+                  "description": "Manage Tracking"
+                },
+                {
+                  "applicationPermissionId": 130,
+                  "code": "load_tracking_view",
+                  "name": "Loads - Tracking",
+                  "description": "Loads - Tracking"
+                },
+                {
+                  "applicationPermissionId": 131,
+                  "code": "loyalty_view",
+                  "name": "Loyalty - View",
+                  "description": "Loyalty - View"
+                },
+                {
+                  "applicationPermissionId": 132,
+                  "code": "manage_asset",
+                  "name": "Manage Asset",
+                  "description": "Manage Asset"
+                },
+                {
+                  "applicationPermissionId": 133,
+                  "code": "manage_equipment",
+                  "name": "Manage Equipment",
+                  "description": "Manage Equipment"
+                },
+                {
+                  "applicationPermissionId": 134,
+                  "code": "manage_finance",
+                  "name": "Manage Finance",
+                  "description": "Manage Finance"
+                },
+                {
+                  "applicationPermissionId": 135,
+                  "code": "manage_system_notification",
+                  "name": "Manage System Notification",
+                  "description": "Manage System Notification"
+                },
+                {
+                  "applicationPermissionId": 136,
+                  "code": "view_users",
+                  "name": "View Users",
+                  "description": "View Users"
+                },
+                {
+                  "applicationPermissionId": 184,
+                  "code": "standard_mdm_user",
+                  "name": "Standard MDM User",
+                  "description": "Standard MDM User"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partnerIdentifier": "2-2-XPOLBUMI",
+      "partnerName": "TECH ENABLED FLEET - XPO LOGISTICS EXPRESS LLC",
+      "applications": [
+        {
+          "appCode": "driver_mobile_app",
+          "roles": [
+            {
+              "applicationRoleId": 58,
+              "code": "DrvLdBrd",
+              "name": "Driver with Load board",
+              "permissions": [
+                {
+                  "applicationPermissionId": 51,
+                  "code": "load_accessorials_view",
+                  "name": "Loads - View Accessorials",
+                  "description": "Loads - View Accessorials"
+                },
+                {
+                  "applicationPermissionId": 52,
+                  "code": "load_view",
+                  "name": "Loads - View",
+                  "description": "Loads-View"
+                },
+                {
+                  "applicationPermissionId": 53,
+                  "code": "loadboard_view",
+                  "name": "Loadboard - View",
+                  "description": "Loadboard-View"
+                },
+                {
+                  "applicationPermissionId": 54,
+                  "code": "post_available_truck",
+                  "name": "AvailableTruck-Post",
+                  "description": "AvailableTruck-Post"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "appCode": "XPOC",
+          "roles": [
+            {
+              "applicationRoleId": 94,
+              "code": "Admin",
+              "name": "Administrator",
+              "permissions": [
+                {
+                  "applicationPermissionId": 24,
+                  "code": "analytics_view",
+                  "name": "Analytics - View",
+                  "description": "Ability to view analytics"
+                },
+                {
+                  "applicationPermissionId": 25,
+                  "code": "manage_profile",
+                  "name": "Manage Profile",
+                  "description": "Ability to manage profile"
+                },
+                {
+                  "applicationPermissionId": 27,
+                  "code": "manage_user",
+                  "name": "Manage Users",
+                  "description": "Ability to manage users"
+                },
+                {
+                  "applicationPermissionId": 33,
+                  "code": "analytics_create",
+                  "name": "analytics_create",
+                  "description": "Analytics - Create"
+                },
+                {
+                  "applicationPermissionId": 34,
+                  "code": "analytics_selfservice_view",
+                  "name": "Analytics - SelfService View",
+                  "description": "Analytics - SelfService View"
+                },
+                {
+                  "applicationPermissionId": 35,
+                  "code": "connect_access_review",
+                  "name": "User Access Requests",
+                  "description": "User Access Requests"
+                },
+                {
+                  "applicationPermissionId": 36,
+                  "code": "dashboard_view",
+                  "name": "Dashboard - View",
+                  "description": "Dashboard - View"
+                },
+                {
+                  "applicationPermissionId": 39,
+                  "code": "helpdesk_view",
+                  "name": "Helpdesk - View",
+                  "description": "Ability to view helpdesk"
+                },
+                {
+                  "applicationPermissionId": 41,
+                  "code": "manage_roles",
+                  "name": "Manage Roles",
+                  "description": "Ability to manage roles"
+                },
+                {
+                  "applicationPermissionId": 43,
+                  "code": "provide_feedback",
+                  "name": "Provide Feedback",
+                  "description": "Provide Feedback"
+                },
+                {
+                  "applicationPermissionId": 116,
+                  "code": "load_accessorials_view",
+                  "name": "Loads - View Accessorials",
+                  "description": "Loads - View Accessorials"
+                },
+                {
+                  "applicationPermissionId": 117,
+                  "code": "load_view",
+                  "name": "Loads - View",
+                  "description": "Loads - View"
+                },
+                {
+                  "applicationPermissionId": 118,
+                  "code": "asset_action",
+                  "name": "Action Asset",
+                  "description": "Action Asset"
+                },
+                {
+                  "applicationPermissionId": 119,
+                  "code": "dedicated_lanes_view",
+                  "name": "Dedicated Lanes",
+                  "description": "Dedicated Lanes"
+                },
+                {
+                  "applicationPermissionId": 120,
+                  "code": "load_assigned_action",
+                  "name": "Action Assigned Loads",
+                  "description": "Action Assigned Loads"
+                },
+                {
+                  "applicationPermissionId": 121,
+                  "code": "load_assigned_manage",
+                  "name": "Manage Assigned",
+                  "description": "Manage Assigned"
+                },
+                {
+                  "applicationPermissionId": 122,
+                  "code": "load_assigned_view",
+                  "name": "Loads - View Assigned",
+                  "description": "Loads - View Assigned"
+                },
+                {
+                  "applicationPermissionId": 123,
+                  "code": "load_available_manage",
+                  "name": "Loads - Find/Bid",
+                  "description": "Loads - Find/Bid"
+                },
+                {
+                  "applicationPermissionId": 124,
+                  "code": "load_available_view",
+                  "name": "Loads - View Available",
+                  "description": "Loads - View Available"
+                },
+                {
+                  "applicationPermissionId": 125,
+                  "code": "load_bids_manage",
+                  "name": "Manage Bid",
+                  "description": "Manage Bid"
+                },
+                {
+                  "applicationPermissionId": 126,
+                  "code": "load_bids_view",
+                  "name": "Loads - Bid",
+                  "description": "Loads - Bid"
+                },
+                {
+                  "applicationPermissionId": 127,
+                  "code": "load_limited_view",
+                  "name": "Loads - LimitedView",
+                  "description": "Loads - LimitedView"
+                },
+                {
+                  "applicationPermissionId": 128,
+                  "code": "load_tenders",
+                  "name": "Load - Tenders",
+                  "description": "Load - Tenders"
+                },
+                {
+                  "applicationPermissionId": 129,
+                  "code": "load_tracking_manage",
+                  "name": "Manage Tracking",
+                  "description": "Manage Tracking"
+                },
+                {
+                  "applicationPermissionId": 130,
+                  "code": "load_tracking_view",
+                  "name": "Loads - Tracking",
+                  "description": "Loads - Tracking"
+                },
+                {
+                  "applicationPermissionId": 131,
+                  "code": "loyalty_view",
+                  "name": "Loyalty - View",
+                  "description": "Loyalty - View"
+                },
+                {
+                  "applicationPermissionId": 132,
+                  "code": "manage_asset",
+                  "name": "Manage Asset",
+                  "description": "Manage Asset"
+                },
+                {
+                  "applicationPermissionId": 133,
+                  "code": "manage_equipment",
+                  "name": "Manage Equipment",
+                  "description": "Manage Equipment"
+                },
+                {
+                  "applicationPermissionId": 134,
+                  "code": "manage_finance",
+                  "name": "Manage Finance",
+                  "description": "Manage Finance"
+                },
+                {
+                  "applicationPermissionId": 135,
+                  "code": "manage_system_notification",
+                  "name": "Manage System Notification",
+                  "description": "Manage System Notification"
+                },
+                {
+                  "applicationPermissionId": 136,
+                  "code": "view_users",
+                  "name": "View Users",
+                  "description": "View Users"
+                },
+                {
+                  "applicationPermissionId": 184,
+                  "code": "standard_mdm_user",
+                  "name": "Standard MDM User",
+                  "description": "Standard MDM User"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

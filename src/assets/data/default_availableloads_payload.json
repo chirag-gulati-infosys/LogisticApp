@@ -1,0 +1,31 @@
+{
+  "origin": {
+    "longitude": 0.0,
+    "latitude": 0.0,
+    "radiusMiles": 150,
+    "postalCode": null,
+    "city": null,
+    "state": null
+  },
+  "destination": {
+    "longitude": 0.0,
+    "latitude": 0.0,
+    "radiusMiles": 150,
+    "postalCode": null,
+    "city": null,
+    "state": null
+  },
+  "pageNumber": 1,
+  "carrierCode": "",
+  "sortExpressions": [
+    {
+      "Latitude": 0.0,
+      "Longitude": 0.0,
+      "DistanceUnit": null,
+      "IsGeoDistanceSort": false,
+      "Column": "originPickupDateTimeInUTC",
+      "IsDescendingSort": false
+    }
+  ],
+  "isDeadheadSort": false
+}

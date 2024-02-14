@@ -1,0 +1,173 @@
+{
+    "carrierRewardsResponse": {
+        "loyaltySummary": {
+            "loadsToStayOnCurrentLoyaltyLevel": 4,
+            "loadsRequiredOnCurrentLoyaltyLevel": 4,
+            "daysToNextRewardPeriod": 7,
+            "totalDaysInMonth": 31,
+            "currentScore": 71,
+            "currentLoyaltyLevelName": "GOLD",
+            "nextLoyaltyLevelName": "PLATINUM",
+            "loadsRequiredToNextLoyaltyLevel": 8,
+            "scoreRequiredToNextLoyaltyLevel": 90
+        },
+        "loyaltyLevels": [
+            {
+                "loyaltyLevelCode": "BRZ",
+                "loyaltyLevelName": "BRONZE",
+                "criterias": {
+                    "lastMonthLoads": "0",
+                    "minimumScore": "0"
+                },
+                "benefits": {
+                    "fuelSaving": {
+                        "benefitValue": 0,
+                        "measureCode": "CPG",
+                        "totalBonus": 0,
+                        "individualBonus": null,
+                        "bonusQuantity": null
+                    },
+                    "statusBonus": {
+                        "benefitValue": null,
+                        "measureCode": "USD",
+                        "totalBonus": 50,
+                        "individualBonus": 50,
+                        "bonusQuantity": 1
+                    },
+                    "anniversaryBonus": {
+                        "benefitValue": null,
+                        "measureCode": "USD",
+                        "totalBonus": 0,
+                        "individualBonus": 0,
+                        "bonusQuantity": null
+                    },
+                    "quarterlyBonus": {
+                        "benefitValue": null,
+                        "measureCode": "USD",
+                        "totalBonus": 0,
+                        "individualBonus": 0,
+                        "bonusQuantity": null
+                    }
+                }
+            },
+            {
+                "loyaltyLevelCode": "SLV",
+                "loyaltyLevelName": "SILVER",
+                "criterias": {
+                    "lastMonthLoads": "2",
+                    "minimumScore": "70"
+                },
+                "benefits": {
+                    "fuelSaving": {
+                        "benefitValue": 1,
+                        "measureCode": "CPG",
+                        "totalBonus": 0,
+                        "individualBonus": null,
+                        "bonusQuantity": null
+                    },
+                    "statusBonus": {
+                        "benefitValue": null,
+                        "measureCode": "USD",
+                        "totalBonus": 50,
+                        "individualBonus": 50,
+                        "bonusQuantity": 1
+                    },
+                    "anniversaryBonus": {
+                        "benefitValue": null,
+                        "measureCode": "USD",
+                        "totalBonus": 50,
+                        "individualBonus": 50,
+                        "bonusQuantity": 1
+                    },
+                    "quarterlyBonus": {
+                        "benefitValue": null,
+                        "measureCode": "USD",
+                        "totalBonus": 50,
+                        "individualBonus": 50,
+                        "bonusQuantity": 1
+                    }
+                }
+            },
+            {
+                "loyaltyLevelCode": "GLD",
+                "loyaltyLevelName": "GOLD",
+                "criterias": {
+                    "lastMonthLoads": "4",
+                    "minimumScore": "80"
+                },
+                "benefits": {
+                    "fuelSaving": {
+                        "benefitValue": 2,
+                        "measureCode": "CPG",
+                        "totalBonus": 0,
+                        "individualBonus": null,
+                        "bonusQuantity": null
+                    },
+                    "statusBonus": {
+                        "benefitValue": null,
+                        "measureCode": "USD",
+                        "totalBonus": 150,
+                        "individualBonus": 50,
+                        "bonusQuantity": 3
+                    },
+                    "anniversaryBonus": {
+                        "benefitValue": null,
+                        "measureCode": "USD",
+                        "totalBonus": 150,
+                        "individualBonus": 50,
+                        "bonusQuantity": 3
+                    },
+                    "quarterlyBonus": {
+                        "benefitValue": null,
+                        "measureCode": "USD",
+                        "totalBonus": 100,
+                        "individualBonus": 50,
+                        "bonusQuantity": 2
+                    }
+                }
+            },
+            {
+                "loyaltyLevelCode": "PLT",
+                "loyaltyLevelName": "PLATINUM",
+                "criterias": {
+                    "lastMonthLoads": "8",
+                    "minimumScore": "90"
+                },
+                "benefits": {
+                    "fuelSaving": {
+                        "benefitValue": 4,
+                        "measureCode": "CPG",
+                        "totalBonus": 0,
+                        "individualBonus": null,
+                        "bonusQuantity": null
+                    },
+                    "statusBonus": {
+                        "benefitValue": null,
+                        "measureCode": "USD",
+                        "totalBonus": 250,
+                        "individualBonus": 50,
+                        "bonusQuantity": 5
+                    },
+                    "anniversaryBonus": {
+                        "benefitValue": null,
+                        "measureCode": "USD",
+                        "totalBonus": 250,
+                        "individualBonus": 50,
+                        "bonusQuantity": 5
+                    },
+                    "quarterlyBonus": {
+                        "benefitValue": null,
+                        "measureCode": "USD",
+                        "totalBonus": 150,
+                        "individualBonus": 50,
+                        "bonusQuantity": 3
+                    }
+                }
+            }
+        ],
+        "hasAcceptedTermsAndConditions": false,
+        "isFuelCardLinkDisabled": false
+    },
+    
+    "transactionSummaryResponse": ""
+}

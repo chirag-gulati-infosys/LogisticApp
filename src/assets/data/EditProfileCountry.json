@@ -1,0 +1,22 @@
+{
+  "EditProfileData": [
+    {
+      "id": "1",
+      "countryName": "Canada",
+      "countryCode": "+1",
+      "checked": false
+    },
+    {
+      "id": "2",
+      "countryName": "Mexico",
+      "countryCode": "+52",
+      "checked": false
+    },
+    {
+      "id": "3",
+      "countryName": "United States",
+      "countryCode": "+1",
+      "checked": false
+    }
+  ]
+}

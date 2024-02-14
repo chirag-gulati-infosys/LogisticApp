@@ -1,0 +1,20 @@
+{
+  "userPreference": {
+    "userId": 54022,
+    "username": "push.notification@xpoqa.com",
+    "email": "push.notification@xpoqa.com",
+    "firstName": "Push",
+    "lastName": "Notification",
+    "phoneNumber": 18722033119,
+    "isActive": true,
+    "preferredCurrencyCode": null,
+    "preferredCurrencyName": null,
+    "preferredLanguageCode": null,
+    "preferredLanguageName": null,
+    "tenantId": 1,
+    "partnerApplicationRoles": null,
+    "preferredSystemOfMeasure": null,
+    "accessGroup": null,
+    "preferredStorePickupLocation": null
+  }
+}
